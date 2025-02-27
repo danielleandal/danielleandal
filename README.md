@@ -5,16 +5,16 @@ Welcome to my GitHub! I'm passionate about **building scalable applications, AI-
 
 ## ⚡ Skills & Technologies
 **Programming Languages:**  
-🟢 Java | JavaScript | React/TypeScript | Python |  SQL |  C  
+🟢 Java | JavaScript | React/TypeScript | Python |  SQL | C | C#
 
 **Frameworks & Tools:**  
-🛠 React.js | Node.js | Express | Android Studio | VSCODE | Unity 
+🛠 React.js | Node.js | Express | Android Studio | VSCODE | Unity | GIT | DIGITAL OCEAN
 
 **Databases:**  
 🗄 MySQL | MongoDB | 
 
 **DevOps & Cloud:**  
-☁ AWS | CI/CD (GitHub Actions)  
+☁ AWS | DIGITAL OCEAN  
 
 
 <!--
