@@ -8,13 +8,13 @@ Welcome to my GitHub! I'm passionate about **building scalable applications, AI-
 🟢 Java | JavaScript | React/TypeScript | Python |  SQL | C | C#
 
 **Frameworks & Tools:**  
-🛠 React.js | Node.js | Express | Android Studio | VSCODE | Unity | GIT | DIGITAL OCEAN
+🛠 React.js | Node.js | Express | Android Studio | VSCODE | Unity | GIT 
 
 **Databases:**  
 🗄 MySQL | MongoDB | 
 
 **DevOps & Cloud:**  
-☁ AWS | DIGITAL OCEAN  
+☁ AWS | Digital Ocean
 
 
 <!--
