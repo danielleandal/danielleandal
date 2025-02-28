@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm passionate about **building scalable applications, and solving real-world problems with code**. I have experience in **Java, JavaScript, Python, SQL, and Cloud Technologies (Digital Ocean/LightSail)**.
+Welcome to my GitHub! I'm passionate about **building scalable applications, and solving real-world problems with code**. I have experience in **Java, JavaScript, Python, C, C# and Cloud Technologies (Digital Ocean/LightSail)**.
 
 
 ## ⚡ Skills & Technologies
