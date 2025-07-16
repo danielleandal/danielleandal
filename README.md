@@ -3,18 +3,18 @@
 Welcome to my GitHub! I'm passionate about **building scalable applications, and solving real-world problems with code**. I have experience in **Java, JavaScript, Python, C, C# and Cloud Technologies (Digital Ocean/LightSail)**.
 
 
-## ⚡ Skills & Technologies
+## Skills & Technologies
 **Programming Languages:**  
-🟢 Java | JavaScript | React/TypeScript | Python |  SQL | C | C#
+- Java | JavaScript | React/TypeScript | Python |  SQL | C | C#
 
 **Frameworks & Tools:**  
-🛠 React.js | Node.js | Express | Android Studio | VSCODE | Unity | GIT 
+-  React.js | Node.js | Express | Android Studio | VSCODE | Unity | GIT 
 
 **Databases:**  
-🗄 MySQL | MongoDB | 
+-  MySQL | MongoDB | 
 
 **DevOps & Cloud:**  
-☁ AWS | Digital Ocean
+-  AWS | Digital Ocean
 
 
 <!--
